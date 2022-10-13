@@ -1,2 +1,5 @@
 # style-guide
-The SystemVerilog style guide for the RAMP framework.
+Style guides for the RAMP framework.
+
+[RAMP Verilog Coding Style Guide](https://github.com/Cal-Poly-RAMP/style-guide/verilog-style-guide.md)
+
